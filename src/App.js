@@ -19,15 +19,15 @@ function App() {
   setBmi(result);
   if(result <18.5){
     setHeading("Your BMI is")
-    setStatus("You are under weigh");
+    setStatus("You are under weigh")
   }
     else if(result >=18.5 && result <=24.99){
       setHeading("Your BMI is")
-      setStatus("You are on normal weight"); 
+      setStatus("You are on normal weight") 
   }
     else if(result >=25 && result <=29.99){
       setHeading("Your BMI is")
-      setStatus("You are Overweight"); 
+      setStatus("You are Overweight") 
   }
   else {
     setHeading("Your BMI is")
