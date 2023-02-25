@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.136f820b.js",
-    "static/media/fit.jpg": "/static/media/fit.6159ec3dd18e3a3ab805.jpg",
-    "static/media/Fitness stats.gif": "/static/media/Fitness stats.891ed58cd60772ee5586.gif",
-    "index.html": "/index.html",
-    "main.136f820b.js.map": "/static/js/main.136f820b.js.map"
+    "main.js": "/BMI-fitness-calcualator/static/js/main.1e028141.js",
+    "static/media/fit.jpg": "/BMI-fitness-calcualator/static/media/fit.6159ec3dd18e3a3ab805.jpg",
+    "static/media/Fitness stats.gif": "/BMI-fitness-calcualator/static/media/Fitness stats.891ed58cd60772ee5586.gif",
+    "index.html": "/BMI-fitness-calcualator/index.html",
+    "main.1e028141.js.map": "/BMI-fitness-calcualator/static/js/main.1e028141.js.map"
   },
   "entrypoints": [
-    "static/js/main.136f820b.js"
+    "static/js/main.1e028141.js"
   ]
 }
